@@ -1,0 +1,46 @@
+
+
+.navbar-brand img {
+  max-height: 35px;
+}
+
+.nav-item {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.headnav {
+ 
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+.bg-image {
+  background: url(https://cdn.britannica.com/85/127685-050-1A2AE4F7/Gippsland-Lakes-Victoria-Australia.jpg);
+  background-size: cover;
+  height: 500px;
+  width: cover;
+  max-height: auto;
+
+}
+
+
+.navbar-expand-lg .navbar-collapse {
+justify-content: flex-end;
+}
+
+.top-text h5 {
+  padding: 10px;
+  opacity: 0.5;
+  background-color: var(--primary);
+  color: var(--secondary);
+  display: flex;
+  justify-content: center;
+}
+
+.top-content {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
